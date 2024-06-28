@@ -1,10 +1,12 @@
 # SQL-PowerBI-HR Data Analysis-End-to-End
+
  ![HR Dashboard](https://github.com/tamK-kol/SQL-PowerBI-HR_Data_Analysis-End-to-End/assets/94835149/93c1aa9d-d73d-4910-9b58-b9daeee0ff19)
 
 ##  HR Request to Data Analysis Team: 
 1. Provide a list of Healthy Individuals & Low Absenteeism for our healthy bonus program - Total Budget USD 1000.
 2. Calculate a Wage Increase or annual compensation for Non-Smokers for: Insurance Budget of USD 983.221 for all Non-Smokers.
 3. Create a Dashboard for HR to understand Absenteeism at work based on the approved wireframe.
+   
    ![image](https://github.com/tamK-kol/SQL-PowerBI-HR_Data_Analysis-End-to-End/assets/94835149/91f2e3c6-7d2f-49ae-83b8-ff4c5325bead)
 
 ## Project Overview:
