@@ -21,20 +21,31 @@
 ## Steps:
 ### 1. Set up the database:
 a. Create a new database in Microsoft SQL Server.
+
 b. Import the CSV files from the Data folder into the database using the SQL scripts provided in the SQL folder.
 ### 2. Run the SQL queries:
 a. Open the SQL Server Management Studio.
+
 b. Connect to the database you created.
+
 c. Execute the SQL scripts in the SQL folder to clean, transform, and analyze the data.
+
 Step 1:
+
 ![image](https://github.com/tamK-kol/SQL-PowerBI-HR_Data_Analysis-End-to-End/assets/94835149/a2aac1e0-0778-46d6-bfc3-f9766eff7993)
+
 Step 2:
+
 ![image](https://github.com/tamK-kol/SQL-PowerBI-HR_Data_Analysis-End-to-End/assets/94835149/67e67f4e-1a91-4dae-b996-1db38058dfd3)
 
 ### 3. Create the Power BI dashboard:
 a. Open Power BI Desktop.
+
 b. Connect to the database you created.
+
 c. Import the data from the database.
+
 d. Create visualizations and dashboards using the data.
+
 e. Save the Power BI report file (.pbix) in the Power BI folder.
 
