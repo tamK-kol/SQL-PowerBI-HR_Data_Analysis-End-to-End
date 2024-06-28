@@ -1,4 +1,4 @@
-# Data Analysis Portfolio: SQL-PowerBI-HR Data Analysis-End-to-End
+# SQL-PowerBI-HR Data Analysis-End-to-End
  ![HR Dashboard](https://github.com/tamK-kol/SQL-PowerBI-HR_Data_Analysis-End-to-End/assets/94835149/93c1aa9d-d73d-4910-9b58-b9daeee0ff19)
 
 ##  HR Request to Data Analysis Team: 
